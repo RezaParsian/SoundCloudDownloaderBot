@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@rezaparsian/soundclouddownloader": "^0.0.4",
+    "@rezaparsian/soundclouddownloader": "^0.0.5",
     "dotenv": "^16.4.7",
     "node-telegram-bot-api": "^0.66.0"
   }
