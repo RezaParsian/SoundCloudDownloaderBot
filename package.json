@@ -11,8 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@hono/node-server": "^1.13.7",
     "@rezaparsian/soundclouddownloader": "^0.0.5",
     "dotenv": "^16.4.7",
+    "hono": "^4.6.16",
     "node-telegram-bot-api": "^0.66.0"
   }
 }
